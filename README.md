@@ -1,6 +1,3 @@
-# PART 3: README
-
-*(This is ready to paste into your repo as README.md)*
 
 ---
 
@@ -101,9 +98,7 @@ npm run dev
 - Streamlit dashboard screenshots (referenced in presentation)
 
 ## Team
-
-[Your team name and members]
-Umar Khan 
-Siddhi Tandel 
-Abhisri Ravi 
-Atharva Khamkar 
+- Umar Khan 
+- Siddhi Tandel 
+- Abhisri Ravi 
+- Atharva Khamkar 
